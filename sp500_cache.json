@@ -1,0 +1,2517 @@
+[
+  {
+    "ticker": "DDOG",
+    "sector": "Technology",
+    "sub_sector": "Software - Application"
+  },
+  {
+    "ticker": "COIN",
+    "sector": "Financial Services",
+    "sub_sector": "Financial - Data & Stock Exchanges"
+  },
+  {
+    "ticker": "DASH",
+    "sector": "Communication Services",
+    "sub_sector": "Internet Content & Information"
+  },
+  {
+    "ticker": "EXE",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Exploration & Production"
+  },
+  {
+    "ticker": "TKO",
+    "sector": "Communication Services",
+    "sub_sector": "Entertainment"
+  },
+  {
+    "ticker": "WSM",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Specialty Retail"
+  },
+  {
+    "ticker": "APO",
+    "sector": "Financial Services",
+    "sub_sector": "Asset Management - Global"
+  },
+  {
+    "ticker": "LII",
+    "sector": "Industrials",
+    "sub_sector": "Construction"
+  },
+  {
+    "ticker": "WDAY",
+    "sector": "Technology",
+    "sub_sector": "Software - Application"
+  },
+  {
+    "ticker": "TPL",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Exploration & Production"
+  },
+  {
+    "ticker": "DELL",
+    "sector": "Technology",
+    "sub_sector": "Computer Hardware"
+  },
+  {
+    "ticker": "ERIE",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Brokers"
+  },
+  {
+    "ticker": "PLTR",
+    "sector": "Technology",
+    "sub_sector": "Software - Infrastructure"
+  },
+  {
+    "ticker": "SW",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Packaging & Containers"
+  },
+  {
+    "ticker": "CRWD",
+    "sector": "Technology",
+    "sub_sector": "Software - Infrastructure"
+  },
+  {
+    "ticker": "GDDY",
+    "sector": "Technology",
+    "sub_sector": "Software - Infrastructure"
+  },
+  {
+    "ticker": "KKR",
+    "sector": "Financial Services",
+    "sub_sector": "Asset Management"
+  },
+  {
+    "ticker": "VST",
+    "sector": "Utilities",
+    "sub_sector": "Independent Power Producers"
+  },
+  {
+    "ticker": "GEV",
+    "sector": "Utilities",
+    "sub_sector": "Renewable Utilities"
+  },
+  {
+    "ticker": "SOLV",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Care Facilities"
+  },
+  {
+    "ticker": "DECK",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Apparel - Footwear & Accessories"
+  },
+  {
+    "ticker": "SMCI",
+    "sector": "Technology",
+    "sub_sector": "Computer Hardware"
+  },
+  {
+    "ticker": "BLDR",
+    "sector": "Industrials",
+    "sub_sector": "Construction"
+  },
+  {
+    "ticker": "JBL",
+    "sector": "Technology",
+    "sub_sector": "Hardware, Equipment & Parts"
+  },
+  {
+    "ticker": "UBER",
+    "sector": "Technology",
+    "sub_sector": "Software - Application"
+  },
+  {
+    "ticker": "HUBB",
+    "sector": "Industrials",
+    "sub_sector": "Electrical Equipment & Parts"
+  },
+  {
+    "ticker": "LULU",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Apparel - Retail"
+  },
+  {
+    "ticker": "VLTO",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Pollution & Treatment Controls"
+  },
+  {
+    "ticker": "ABNB",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Travel Services"
+  },
+  {
+    "ticker": "BX",
+    "sector": "Financial Services",
+    "sub_sector": "Asset Management"
+  },
+  {
+    "ticker": "KVUE",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Household & Personal Products"
+  },
+  {
+    "ticker": "PANW",
+    "sector": "Technology",
+    "sub_sector": "Software - Infrastructure"
+  },
+  {
+    "ticker": "AXON",
+    "sector": "Industrials",
+    "sub_sector": "Aerospace & Defense"
+  },
+  {
+    "ticker": "FICO",
+    "sector": "Technology",
+    "sub_sector": "Software - Application"
+  },
+  {
+    "ticker": "BG",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Agricultural Farm Products"
+  },
+  {
+    "ticker": "PODD",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Devices"
+  },
+  {
+    "ticker": "GEHC",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Healthcare Information Services"
+  },
+  {
+    "ticker": "STLD",
+    "sector": "Basic Materials",
+    "sub_sector": "Steel"
+  },
+  {
+    "ticker": "FSLR",
+    "sector": "Energy",
+    "sub_sector": "Solar"
+  },
+  {
+    "ticker": "ACGL",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Diversified"
+  },
+  {
+    "ticker": "TRGP",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Midstream"
+  },
+  {
+    "ticker": "EQT",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Exploration & Production"
+  },
+  {
+    "ticker": "PCG",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "CSGP",
+    "sector": "Real Estate",
+    "sub_sector": "Real Estate - Services"
+  },
+  {
+    "ticker": "INVH",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Residential"
+  },
+  {
+    "ticker": "KDP",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Beverages - Non-Alcoholic"
+  },
+  {
+    "ticker": "ON",
+    "sector": "Technology",
+    "sub_sector": "Semiconductors"
+  },
+  {
+    "ticker": "VICI",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Diversified"
+  },
+  {
+    "ticker": "WBD",
+    "sector": "Communication Services",
+    "sub_sector": "Entertainment"
+  },
+  {
+    "ticker": "CPT",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Residential"
+  },
+  {
+    "ticker": "MOH",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Healthcare Plans"
+  },
+  {
+    "ticker": "NDSN",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Machinery"
+  },
+  {
+    "ticker": "CEG",
+    "sector": "Utilities",
+    "sub_sector": "Renewable Utilities"
+  },
+  {
+    "ticker": "FDS",
+    "sector": "Financial Services",
+    "sub_sector": "Financial - Data & Stock Exchanges"
+  },
+  {
+    "ticker": "EPAM",
+    "sector": "Technology",
+    "sub_sector": "Information Technology Services"
+  },
+  {
+    "ticker": "BRO",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Brokers"
+  },
+  {
+    "ticker": "DAY",
+    "sector": "Technology",
+    "sub_sector": "Software - Application"
+  },
+  {
+    "ticker": "MTCH",
+    "sector": "Communication Services",
+    "sub_sector": "Internet Content & Information"
+  },
+  {
+    "ticker": "TECH",
+    "sector": "Healthcare",
+    "sub_sector": "Biotechnology"
+  },
+  {
+    "ticker": "MRNA",
+    "sector": "Healthcare",
+    "sub_sector": "Biotechnology"
+  },
+  {
+    "ticker": "CRL",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Diagnostics & Research"
+  },
+  {
+    "ticker": "PTC",
+    "sector": "Technology",
+    "sub_sector": "Software - Application"
+  },
+  {
+    "ticker": "CZR",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Gambling, Resorts & Casinos"
+  },
+  {
+    "ticker": "GNRC",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Machinery"
+  },
+  {
+    "ticker": "NXPI",
+    "sector": "Technology",
+    "sub_sector": "Semiconductors"
+  },
+  {
+    "ticker": "MPWR",
+    "sector": "Technology",
+    "sub_sector": "Semiconductors"
+  },
+  {
+    "ticker": "TRMB",
+    "sector": "Technology",
+    "sub_sector": "Hardware, Equipment & Parts"
+  },
+  {
+    "ticker": "ENPH",
+    "sector": "Energy",
+    "sub_sector": "Solar"
+  },
+  {
+    "ticker": "TSLA",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Auto - Manufacturers"
+  },
+  {
+    "ticker": "POOL",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Distribution"
+  },
+  {
+    "ticker": "TER",
+    "sector": "Technology",
+    "sub_sector": "Semiconductors"
+  },
+  {
+    "ticker": "TDY",
+    "sector": "Technology",
+    "sub_sector": "Hardware, Equipment & Parts"
+  },
+  {
+    "ticker": "TYL",
+    "sector": "Technology",
+    "sub_sector": "Software - Application"
+  },
+  {
+    "ticker": "WST",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Instruments & Supplies"
+  },
+  {
+    "ticker": "DPZ",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Restaurants"
+  },
+  {
+    "ticker": "DXCM",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Devices"
+  },
+  {
+    "ticker": "CARR",
+    "sector": "Industrials",
+    "sub_sector": "Construction"
+  },
+  {
+    "ticker": "OTIS",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Machinery"
+  },
+  {
+    "ticker": "IR",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Machinery"
+  },
+  {
+    "ticker": "PAYC",
+    "sector": "Technology",
+    "sub_sector": "Software - Application"
+  },
+  {
+    "ticker": "LYV",
+    "sector": "Communication Services",
+    "sub_sector": "Entertainment"
+  },
+  {
+    "ticker": "STE",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Devices"
+  },
+  {
+    "ticker": "ZBRA",
+    "sector": "Technology",
+    "sub_sector": "Communication Equipment"
+  },
+  {
+    "ticker": "ODFL",
+    "sector": "Industrials",
+    "sub_sector": "Trucking"
+  },
+  {
+    "ticker": "WRB",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Property & Casualty"
+  },
+  {
+    "ticker": "NOW",
+    "sector": "Technology",
+    "sub_sector": "Software - Application"
+  },
+  {
+    "ticker": "LVS",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Gambling, Resorts & Casinos"
+  },
+  {
+    "ticker": "NVR",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Residential Construction"
+  },
+  {
+    "ticker": "CDW",
+    "sector": "Technology",
+    "sub_sector": "Information Technology Services"
+  },
+  {
+    "ticker": "IEX",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Machinery"
+  },
+  {
+    "ticker": "LDOS",
+    "sector": "Technology",
+    "sub_sector": "Information Technology Services"
+  },
+  {
+    "ticker": "TROW",
+    "sector": "Financial Services",
+    "sub_sector": "Asset Management"
+  },
+  {
+    "ticker": "TMUS",
+    "sector": "Communication Services",
+    "sub_sector": "Telecommunications Services"
+  },
+  {
+    "ticker": "MKTX",
+    "sector": "Financial Services",
+    "sub_sector": "Financial - Capital Markets"
+  },
+  {
+    "ticker": "AMCR",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Packaging & Containers"
+  },
+  {
+    "ticker": "CTVA",
+    "sector": "Basic Materials",
+    "sub_sector": "Agricultural Inputs"
+  },
+  {
+    "ticker": "DD",
+    "sector": "Basic Materials",
+    "sub_sector": "Chemicals - Specialty"
+  },
+  {
+    "ticker": "DOW",
+    "sector": "Basic Materials",
+    "sub_sector": "Chemicals"
+  },
+  {
+    "ticker": "FOX",
+    "sector": "Communication Services",
+    "sub_sector": "Entertainment"
+  },
+  {
+    "ticker": "FOXA",
+    "sector": "Communication Services",
+    "sub_sector": "Entertainment"
+  },
+  {
+    "ticker": "WAB",
+    "sector": "Industrials",
+    "sub_sector": "Railroads"
+  },
+  {
+    "ticker": "ATO",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Gas"
+  },
+  {
+    "ticker": "FANG",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Exploration & Production"
+  },
+  {
+    "ticker": "LW",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Packaged Foods"
+  },
+  {
+    "ticker": "JKHY",
+    "sector": "Technology",
+    "sub_sector": "Information Technology Services"
+  },
+  {
+    "ticker": "KEYS",
+    "sector": "Technology",
+    "sub_sector": "Hardware, Equipment & Parts"
+  },
+  {
+    "ticker": "FTNT",
+    "sector": "Technology",
+    "sub_sector": "Software - Infrastructure"
+  },
+  {
+    "ticker": "ROL",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Personal Products & Services"
+  },
+  {
+    "ticker": "ANET",
+    "sector": "Technology",
+    "sub_sector": "Computer Hardware"
+  },
+  {
+    "ticker": "CPRT",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Auto - Dealerships"
+  },
+  {
+    "ticker": "CPAY",
+    "sector": "Technology",
+    "sub_sector": "Software - Infrastructure"
+  },
+  {
+    "ticker": "BR",
+    "sector": "Technology",
+    "sub_sector": "Information Technology Services"
+  },
+  {
+    "ticker": "EVRG",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "MSCI",
+    "sector": "Financial Services",
+    "sub_sector": "Financial - Data & Stock Exchanges"
+  },
+  {
+    "ticker": "TTWO",
+    "sector": "Technology",
+    "sub_sector": "Electronic Gaming & Multimedia"
+  },
+  {
+    "ticker": "HII",
+    "sector": "Industrials",
+    "sub_sector": "Aerospace & Defense"
+  },
+  {
+    "ticker": "NCLH",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Travel Services"
+  },
+  {
+    "ticker": "CDNS",
+    "sector": "Technology",
+    "sub_sector": "Software - Application"
+  },
+  {
+    "ticker": "SBAC",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Specialty"
+  },
+  {
+    "ticker": "IQV",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Diagnostics & Research"
+  },
+  {
+    "ticker": "AOS",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Machinery"
+  },
+  {
+    "ticker": "MGM",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Gambling, Resorts & Casinos"
+  },
+  {
+    "ticker": "PKG",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Packaging & Containers"
+  },
+  {
+    "ticker": "RMD",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Instruments & Supplies"
+  },
+  {
+    "ticker": "BKR",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Equipment & Services"
+  },
+  {
+    "ticker": "ALGN",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Devices"
+  },
+  {
+    "ticker": "ANSS",
+    "sector": "Technology",
+    "sub_sector": "Software - Application"
+  },
+  {
+    "ticker": "EG",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Reinsurance"
+  },
+  {
+    "ticker": "HLT",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Travel Lodging"
+  },
+  {
+    "ticker": "IT",
+    "sector": "Technology",
+    "sub_sector": "Information Technology Services"
+  },
+  {
+    "ticker": "AMD",
+    "sector": "Technology",
+    "sub_sector": "Semiconductors"
+  },
+  {
+    "ticker": "ARE",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Office"
+  },
+  {
+    "ticker": "RJF",
+    "sector": "Financial Services",
+    "sub_sector": "Financial - Capital Markets"
+  },
+  {
+    "ticker": "SRE",
+    "sector": "Utilities",
+    "sub_sector": "Diversified Utilities"
+  },
+  {
+    "ticker": "SNPS",
+    "sector": "Technology",
+    "sub_sector": "Software - Infrastructure"
+  },
+  {
+    "ticker": "REG",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Retail"
+  },
+  {
+    "ticker": "CBOE",
+    "sector": "Financial Services",
+    "sub_sector": "Financial - Data & Stock Exchanges"
+  },
+  {
+    "ticker": "INCY",
+    "sector": "Healthcare",
+    "sub_sector": "Biotechnology"
+  },
+  {
+    "ticker": "IDXX",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Diagnostics & Research"
+  },
+  {
+    "ticker": "MAA",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Residential"
+  },
+  {
+    "ticker": "D",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "HWM",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Machinery"
+  },
+  {
+    "ticker": "COO",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Instruments & Supplies"
+  },
+  {
+    "ticker": "CHTR",
+    "sector": "Communication Services",
+    "sub_sector": "Telecommunications Services"
+  },
+  {
+    "ticker": "MTD",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Diagnostics & Research"
+  },
+  {
+    "ticker": "ALB",
+    "sector": "Basic Materials",
+    "sub_sector": "Chemicals - Specialty"
+  },
+  {
+    "ticker": "FTV",
+    "sector": "Technology",
+    "sub_sector": "Hardware, Equipment & Parts"
+  },
+  {
+    "ticker": "LNT",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "TDG",
+    "sector": "Industrials",
+    "sub_sector": "Aerospace & Defense"
+  },
+  {
+    "ticker": "AJG",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Brokers"
+  },
+  {
+    "ticker": "LKQ",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Auto - Parts"
+  },
+  {
+    "ticker": "DLR",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Office"
+  },
+  {
+    "ticker": "GPN",
+    "sector": "Industrials",
+    "sub_sector": "Specialty Business Services"
+  },
+  {
+    "ticker": "ULTA",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Specialty Retail"
+  },
+  {
+    "ticker": "CNC",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Healthcare Plans"
+  },
+  {
+    "ticker": "HOLX",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Instruments & Supplies"
+  },
+  {
+    "ticker": "UDR",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Residential"
+  },
+  {
+    "ticker": "AWK",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Water"
+  },
+  {
+    "ticker": "FRT",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Retail"
+  },
+  {
+    "ticker": "CFG",
+    "sector": "Financial Services",
+    "sub_sector": "Banks - Regional"
+  },
+  {
+    "ticker": "EXR",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Industrial"
+  },
+  {
+    "ticker": "WTW",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Brokers"
+  },
+  {
+    "ticker": "CHD",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Household & Personal Products"
+  },
+  {
+    "ticker": "SYF",
+    "sector": "Financial Services",
+    "sub_sector": "Financial - Credit Services"
+  },
+  {
+    "ticker": "HPE",
+    "sector": "Technology",
+    "sub_sector": "Communication Equipment"
+  },
+  {
+    "ticker": "VRSK",
+    "sector": "Industrials",
+    "sub_sector": "Consulting Services"
+  },
+  {
+    "ticker": "NWS",
+    "sector": "Communication Services",
+    "sub_sector": "Entertainment"
+  },
+  {
+    "ticker": "UAL",
+    "sector": "Industrials",
+    "sub_sector": "Airlines, Airports & Air Services"
+  },
+  {
+    "ticker": "PYPL",
+    "sector": "Financial Services",
+    "sub_sector": "Financial - Credit Services"
+  },
+  {
+    "ticker": "KHC",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Packaged Foods"
+  },
+  {
+    "ticker": "JBHT",
+    "sector": "Industrials",
+    "sub_sector": "Integrated Freight & Logistics"
+  },
+  {
+    "ticker": "O",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Retail"
+  },
+  {
+    "ticker": "EQIX",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Specialty"
+  },
+  {
+    "ticker": "HSIC",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Distribution"
+  },
+  {
+    "ticker": "SWKS",
+    "sector": "Technology",
+    "sub_sector": "Semiconductors"
+  },
+  {
+    "ticker": "HCA",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Care Facilities"
+  },
+  {
+    "ticker": "RCL",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Travel Services"
+  },
+  {
+    "ticker": "UHS",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Care Facilities"
+  },
+  {
+    "ticker": "URI",
+    "sector": "Industrials",
+    "sub_sector": "Rental & Leasing Services"
+  },
+  {
+    "ticker": "MLM",
+    "sector": "Basic Materials",
+    "sub_sector": "Construction Materials"
+  },
+  {
+    "ticker": "AVGO",
+    "sector": "Technology",
+    "sub_sector": "Semiconductors"
+  },
+  {
+    "ticker": "GOOGL",
+    "sector": "Communication Services",
+    "sub_sector": "Internet Content & Information"
+  },
+  {
+    "ticker": "ESS",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Residential"
+  },
+  {
+    "ticker": "TSCO",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Specialty Retail"
+  },
+  {
+    "ticker": "META",
+    "sector": "Communication Services",
+    "sub_sector": "Internet Content & Information"
+  },
+  {
+    "ticker": "MHK",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Furnishings, Fixtures & Appliances"
+  },
+  {
+    "ticker": "ALLE",
+    "sector": "Industrials",
+    "sub_sector": "Security & Protection Services"
+  },
+  {
+    "ticker": "AME",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Machinery"
+  },
+  {
+    "ticker": "VRTX",
+    "sector": "Healthcare",
+    "sub_sector": "Biotechnology"
+  },
+  {
+    "ticker": "DAL",
+    "sector": "Industrials",
+    "sub_sector": "Airlines, Airports & Air Services"
+  },
+  {
+    "ticker": "NWSA",
+    "sector": "Communication Services",
+    "sub_sector": "Entertainment"
+  },
+  {
+    "ticker": "ZTS",
+    "sector": "Healthcare",
+    "sub_sector": "Drug Manufacturers - Specialty & Generic"
+  },
+  {
+    "ticker": "GM",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Auto - Manufacturers"
+  },
+  {
+    "ticker": "REGN",
+    "sector": "Healthcare",
+    "sub_sector": "Biotechnology"
+  },
+  {
+    "ticker": "ABBV",
+    "sector": "Healthcare",
+    "sub_sector": "Drug Manufacturers - General"
+  },
+  {
+    "ticker": "APTV",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Auto - Parts"
+  },
+  {
+    "ticker": "GRMN",
+    "sector": "Technology",
+    "sub_sector": "Hardware, Equipment & Parts"
+  },
+  {
+    "ticker": "HUM",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Healthcare Plans"
+  },
+  {
+    "ticker": "DG",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Discount Stores"
+  },
+  {
+    "ticker": "MDLZ",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Food Confectioners"
+  },
+  {
+    "ticker": "PNR",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Machinery"
+  },
+  {
+    "ticker": "LYB",
+    "sector": "Basic Materials",
+    "sub_sector": "Chemicals - Specialty"
+  },
+  {
+    "ticker": "STX",
+    "sector": "Technology",
+    "sub_sector": "Computer Hardware"
+  },
+  {
+    "ticker": "LRCX",
+    "sector": "Technology",
+    "sub_sector": "Semiconductors"
+  },
+  {
+    "ticker": "MNST",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Beverages - Non-Alcoholic"
+  },
+  {
+    "ticker": "KMI",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Midstream"
+  },
+  {
+    "ticker": "PSX",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Refining & Marketing"
+  },
+  {
+    "ticker": "CCI",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Specialty"
+  },
+  {
+    "ticker": "DLTR",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Discount Stores"
+  },
+  {
+    "ticker": "XYL",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Machinery"
+  },
+  {
+    "ticker": "TEL",
+    "sector": "Technology",
+    "sub_sector": "Hardware, Equipment & Parts"
+  },
+  {
+    "ticker": "MOS",
+    "sector": "Basic Materials",
+    "sub_sector": "Agricultural Inputs"
+  },
+  {
+    "ticker": "ACN",
+    "sector": "Technology",
+    "sub_sector": "Information Technology Services"
+  },
+  {
+    "ticker": "FCX",
+    "sector": "Basic Materials",
+    "sub_sector": "Copper"
+  },
+  {
+    "ticker": "MPC",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Refining & Marketing"
+  },
+  {
+    "ticker": "CMG",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Restaurants"
+  },
+  {
+    "ticker": "BLK",
+    "sector": "Financial Services",
+    "sub_sector": "Asset Management"
+  },
+  {
+    "ticker": "EW",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Devices"
+  },
+  {
+    "ticker": "FFIV",
+    "sector": "Technology",
+    "sub_sector": "Software - Infrastructure"
+  },
+  {
+    "ticker": "NFLX",
+    "sector": "Communication Services",
+    "sub_sector": "Entertainment"
+  },
+  {
+    "ticker": "TT",
+    "sector": "Industrials",
+    "sub_sector": "Construction"
+  },
+  {
+    "ticker": "JCI",
+    "sector": "Industrials",
+    "sub_sector": "Construction"
+  },
+  {
+    "ticker": "CB",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Property & Casualty"
+  },
+  {
+    "ticker": "KMX",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Auto - Dealerships"
+  },
+  {
+    "ticker": "OKE",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Midstream"
+  },
+  {
+    "ticker": "BRK-B",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Diversified"
+  },
+  {
+    "ticker": "NRG",
+    "sector": "Utilities",
+    "sub_sector": "Independent Power Producers"
+  },
+  {
+    "ticker": "ROP",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Machinery"
+  },
+  {
+    "ticker": "ROST",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Apparel - Retail"
+  },
+  {
+    "ticker": "V",
+    "sector": "Financial Services",
+    "sub_sector": "Financial - Credit Services"
+  },
+  {
+    "ticker": "BKNG",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Travel Services"
+  },
+  {
+    "ticker": "ES",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "PWR",
+    "sector": "Industrials",
+    "sub_sector": "Engineering & Construction"
+  },
+  {
+    "ticker": "WDC",
+    "sector": "Technology",
+    "sub_sector": "Computer Hardware"
+  },
+  {
+    "ticker": "ORLY",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Specialty Retail"
+  },
+  {
+    "ticker": "HRL",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Packaged Foods"
+  },
+  {
+    "ticker": "VTR",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Healthcare Facilities"
+  },
+  {
+    "ticker": "WELL",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Healthcare Facilities"
+  },
+  {
+    "ticker": "IRM",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Specialty"
+  },
+  {
+    "ticker": "RSG",
+    "sector": "Industrials",
+    "sub_sector": "Waste Management"
+  },
+  {
+    "ticker": "WYNN",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Gambling, Resorts & Casinos"
+  },
+  {
+    "ticker": "SJM",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Packaged Foods"
+  },
+  {
+    "ticker": "WEC",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "NDAQ",
+    "sector": "Financial Services",
+    "sub_sector": "Financial - Data & Stock Exchanges"
+  },
+  {
+    "ticker": "APH",
+    "sector": "Technology",
+    "sub_sector": "Hardware, Equipment & Parts"
+  },
+  {
+    "ticker": "LHX",
+    "sector": "Industrials",
+    "sub_sector": "Aerospace & Defense"
+  },
+  {
+    "ticker": "CRM",
+    "sector": "Technology",
+    "sub_sector": "Software - Application"
+  },
+  {
+    "ticker": "FAST",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Distribution"
+  },
+  {
+    "ticker": "CF",
+    "sector": "Basic Materials",
+    "sub_sector": "Agricultural Inputs"
+  },
+  {
+    "ticker": "IVZ",
+    "sector": "Financial Services",
+    "sub_sector": "Asset Management"
+  },
+  {
+    "ticker": "DVA",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Care Facilities"
+  },
+  {
+    "ticker": "MA",
+    "sector": "Financial Services",
+    "sub_sector": "Financial - Credit Services"
+  },
+  {
+    "ticker": "CTRA",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Exploration & Production"
+  },
+  {
+    "ticker": "ISRG",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Instruments & Supplies"
+  },
+  {
+    "ticker": "DOC",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Healthcare Facilities"
+  },
+  {
+    "ticker": "PM",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Tobacco"
+  },
+  {
+    "ticker": "AMT",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Specialty"
+  },
+  {
+    "ticker": "J",
+    "sector": "Industrials",
+    "sub_sector": "Engineering & Construction"
+  },
+  {
+    "ticker": "EXPD",
+    "sector": "Industrials",
+    "sub_sector": "Integrated Freight & Logistics"
+  },
+  {
+    "ticker": "EXPE",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Travel Services"
+  },
+  {
+    "ticker": "ICE",
+    "sector": "Financial Services",
+    "sub_sector": "Financial - Data & Stock Exchanges"
+  },
+  {
+    "ticker": "MCHP",
+    "sector": "Technology",
+    "sub_sector": "Semiconductors"
+  },
+  {
+    "ticker": "AKAM",
+    "sector": "Technology",
+    "sub_sector": "Software - Infrastructure"
+  },
+  {
+    "ticker": "AIZ",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Specialty"
+  },
+  {
+    "ticker": "HST",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Hotel & Motel"
+  },
+  {
+    "ticker": "CHRW",
+    "sector": "Industrials",
+    "sub_sector": "Integrated Freight & Logistics"
+  },
+  {
+    "ticker": "RL",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Apparel - Manufacturers"
+  },
+  {
+    "ticker": "AVB",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Residential"
+  },
+  {
+    "ticker": "CTSH",
+    "sector": "Technology",
+    "sub_sector": "Information Technology Services"
+  },
+  {
+    "ticker": "CBRE",
+    "sector": "Real Estate",
+    "sub_sector": "Real Estate - Services"
+  },
+  {
+    "ticker": "FIS",
+    "sector": "Technology",
+    "sub_sector": "Information Technology Services"
+  },
+  {
+    "ticker": "CME",
+    "sector": "Financial Services",
+    "sub_sector": "Financial - Data & Stock Exchanges"
+  },
+  {
+    "ticker": "KIM",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Retail"
+  },
+  {
+    "ticker": "BXP",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Office"
+  },
+  {
+    "ticker": "GOOG",
+    "sector": "Communication Services",
+    "sub_sector": "Internet Content & Information"
+  },
+  {
+    "ticker": "VRSN",
+    "sector": "Technology",
+    "sub_sector": "Software - Infrastructure"
+  },
+  {
+    "ticker": "EL",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Household & Personal Products"
+  },
+  {
+    "ticker": "AMZN",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Specialty Retail"
+  },
+  {
+    "ticker": "LEN",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Residential Construction"
+  },
+  {
+    "ticker": "AMP",
+    "sector": "Financial Services",
+    "sub_sector": "Asset Management"
+  },
+  {
+    "ticker": "PSA",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Industrial"
+  },
+  {
+    "ticker": "TSN",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Agricultural Farm Products"
+  },
+  {
+    "ticker": "STZ",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Beverages - Wineries & Distilleries"
+  },
+  {
+    "ticker": "DHI",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Residential Construction"
+  },
+  {
+    "ticker": "LH",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Diagnostics & Research"
+  },
+  {
+    "ticker": "TPR",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Luxury Goods"
+  },
+  {
+    "ticker": "TMO",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Diagnostics & Research"
+  },
+  {
+    "ticker": "GILD",
+    "sector": "Healthcare",
+    "sub_sector": "Drug Manufacturers - General"
+  },
+  {
+    "ticker": "VTRS",
+    "sector": "Healthcare",
+    "sub_sector": "Drug Manufacturers - Specialty & Generic"
+  },
+  {
+    "ticker": "MTB",
+    "sector": "Financial Services",
+    "sub_sector": "Banks - Regional"
+  },
+  {
+    "ticker": "BIIB",
+    "sector": "Healthcare",
+    "sub_sector": "Drug Manufacturers - General"
+  },
+  {
+    "ticker": "PLD",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Industrial"
+  },
+  {
+    "ticker": "GEN",
+    "sector": "Technology",
+    "sub_sector": "Software - Infrastructure"
+  },
+  {
+    "ticker": "MKC",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Packaged Foods"
+  },
+  {
+    "ticker": "STT",
+    "sector": "Financial Services",
+    "sub_sector": "Asset Management"
+  },
+  {
+    "ticker": "VLO",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Refining & Marketing"
+  },
+  {
+    "ticker": "DGX",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Diagnostics & Research"
+  },
+  {
+    "ticker": "CMCSA",
+    "sector": "Communication Services",
+    "sub_sector": "Telecommunications Services"
+  },
+  {
+    "ticker": "TRV",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Property & Casualty"
+  },
+  {
+    "ticker": "ELV",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Healthcare Plans"
+  },
+  {
+    "ticker": "EA",
+    "sector": "Technology",
+    "sub_sector": "Electronic Gaming & Multimedia"
+  },
+  {
+    "ticker": "EBAY",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Specialty Retail"
+  },
+  {
+    "ticker": "GS",
+    "sector": "Financial Services",
+    "sub_sector": "Financial - Capital Markets"
+  },
+  {
+    "ticker": "PFG",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Diversified"
+  },
+  {
+    "ticker": "PRU",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Life"
+  },
+  {
+    "ticker": "UPS",
+    "sector": "Industrials",
+    "sub_sector": "Integrated Freight & Logistics"
+  },
+  {
+    "ticker": "SPG",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Retail"
+  },
+  {
+    "ticker": "WAT",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Diagnostics & Research"
+  },
+  {
+    "ticker": "EQR",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Residential"
+  },
+  {
+    "ticker": "NVDA",
+    "sector": "Technology",
+    "sub_sector": "Semiconductors"
+  },
+  {
+    "ticker": "PPL",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "COR",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Distribution"
+  },
+  {
+    "ticker": "ZBH",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Devices"
+  },
+  {
+    "ticker": "FI",
+    "sector": "Technology",
+    "sub_sector": "Information Technology Services"
+  },
+  {
+    "ticker": "TXN",
+    "sector": "Technology",
+    "sub_sector": "Semiconductors"
+  },
+  {
+    "ticker": "CTAS",
+    "sector": "Industrials",
+    "sub_sector": "Specialty Business Services"
+  },
+  {
+    "ticker": "SYK",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Devices"
+  },
+  {
+    "ticker": "MET",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Life"
+  },
+  {
+    "ticker": "INTU",
+    "sector": "Technology",
+    "sub_sector": "Software - Application"
+  },
+  {
+    "ticker": "EOG",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Exploration & Production"
+  },
+  {
+    "ticker": "NI",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Gas"
+  },
+  {
+    "ticker": "DVN",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Exploration & Production"
+  },
+  {
+    "ticker": "SBUX",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Restaurants"
+  },
+  {
+    "ticker": "A",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Diagnostics & Research"
+  },
+  {
+    "ticker": "ROK",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Machinery"
+  },
+  {
+    "ticker": "USB",
+    "sector": "Financial Services",
+    "sub_sector": "Banks - Regional"
+  },
+  {
+    "ticker": "ADI",
+    "sector": "Technology",
+    "sub_sector": "Semiconductors"
+  },
+  {
+    "ticker": "PNW",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "QCOM",
+    "sector": "Technology",
+    "sub_sector": "Semiconductors"
+  },
+  {
+    "ticker": "VMC",
+    "sector": "Basic Materials",
+    "sub_sector": "Construction Materials"
+  },
+  {
+    "ticker": "BBY",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Specialty Retail"
+  },
+  {
+    "ticker": "NTAP",
+    "sector": "Technology",
+    "sub_sector": "Computer Hardware"
+  },
+  {
+    "ticker": "AFL",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Life"
+  },
+  {
+    "ticker": "MCK",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Distribution"
+  },
+  {
+    "ticker": "CCL",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Leisure"
+  },
+  {
+    "ticker": "DHR",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Diagnostics & Research"
+  },
+  {
+    "ticker": "AES",
+    "sector": "Utilities",
+    "sub_sector": "Diversified Utilities"
+  },
+  {
+    "ticker": "PAYX",
+    "sector": "Industrials",
+    "sub_sector": "Staffing & Employment Services"
+  },
+  {
+    "ticker": "WM",
+    "sector": "Industrials",
+    "sub_sector": "Waste Management"
+  },
+  {
+    "ticker": "RF",
+    "sector": "Financial Services",
+    "sub_sector": "Banks - Regional"
+  },
+  {
+    "ticker": "COF",
+    "sector": "Financial Services",
+    "sub_sector": "Financial - Credit Services"
+  },
+  {
+    "ticker": "MCO",
+    "sector": "Financial Services",
+    "sub_sector": "Financial - Data & Stock Exchanges"
+  },
+  {
+    "ticker": "MAR",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Travel Lodging"
+  },
+  {
+    "ticker": "BEN",
+    "sector": "Financial Services",
+    "sub_sector": "Asset Management"
+  },
+  {
+    "ticker": "NTRS",
+    "sector": "Financial Services",
+    "sub_sector": "Asset Management"
+  },
+  {
+    "ticker": "OMC",
+    "sector": "Communication Services",
+    "sub_sector": "Advertising Agencies"
+  },
+  {
+    "ticker": "CINF",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Property & Casualty"
+  },
+  {
+    "ticker": "TFC",
+    "sector": "Financial Services",
+    "sub_sector": "Banks - Regional"
+  },
+  {
+    "ticker": "FE",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "YUM",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Restaurants"
+  },
+  {
+    "ticker": "KLAC",
+    "sector": "Technology",
+    "sub_sector": "Semiconductors"
+  },
+  {
+    "ticker": "HBAN",
+    "sector": "Financial Services",
+    "sub_sector": "Banks - Regional"
+  },
+  {
+    "ticker": "PGR",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Property & Casualty"
+  },
+  {
+    "ticker": "APA",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Exploration & Production"
+  },
+  {
+    "ticker": "EFX",
+    "sector": "Industrials",
+    "sub_sector": "Consulting Services"
+  },
+  {
+    "ticker": "SCHW",
+    "sector": "Financial Services",
+    "sub_sector": "Financial - Capital Markets"
+  },
+  {
+    "ticker": "CAH",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Distribution"
+  },
+  {
+    "ticker": "ADBE",
+    "sector": "Technology",
+    "sub_sector": "Software - Infrastructure"
+  },
+  {
+    "ticker": "AZO",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Specialty Retail"
+  },
+  {
+    "ticker": "AON",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Brokers"
+  },
+  {
+    "ticker": "FITB",
+    "sector": "Financial Services",
+    "sub_sector": "Banks - Regional"
+  },
+  {
+    "ticker": "ALL",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Property & Casualty"
+  },
+  {
+    "ticker": "DRI",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Restaurants"
+  },
+  {
+    "ticker": "L",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Property & Casualty"
+  },
+  {
+    "ticker": "BK",
+    "sector": "Financial Services",
+    "sub_sector": "Asset Management"
+  },
+  {
+    "ticker": "AMAT",
+    "sector": "Technology",
+    "sub_sector": "Semiconductors"
+  },
+  {
+    "ticker": "GLW",
+    "sector": "Technology",
+    "sub_sector": "Hardware, Equipment & Parts"
+  },
+  {
+    "ticker": "BSX",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Devices"
+  },
+  {
+    "ticker": "PARA",
+    "sector": "Communication Services",
+    "sub_sector": "Entertainment"
+  },
+  {
+    "ticker": "MU",
+    "sector": "Technology",
+    "sub_sector": "Semiconductors"
+  },
+  {
+    "ticker": "LUV",
+    "sector": "Industrials",
+    "sub_sector": "Airlines, Airports & Air Services"
+  },
+  {
+    "ticker": "UNH",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Healthcare Plans"
+  },
+  {
+    "ticker": "MSFT",
+    "sector": "Technology",
+    "sub_sector": "Software - Infrastructure"
+  },
+  {
+    "ticker": "KEY",
+    "sector": "Financial Services",
+    "sub_sector": "Banks - Regional"
+  },
+  {
+    "ticker": "EMN",
+    "sector": "Basic Materials",
+    "sub_sector": "Chemicals - Specialty"
+  },
+  {
+    "ticker": "CSCO",
+    "sector": "Technology",
+    "sub_sector": "Communication Equipment"
+  },
+  {
+    "ticker": "COST",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Discount Stores"
+  },
+  {
+    "ticker": "MS",
+    "sector": "Financial Services",
+    "sub_sector": "Financial - Capital Markets"
+  },
+  {
+    "ticker": "IPG",
+    "sector": "Communication Services",
+    "sub_sector": "Advertising Agencies"
+  },
+  {
+    "ticker": "LIN",
+    "sector": "Basic Materials",
+    "sub_sector": "Chemicals - Specialty"
+  },
+  {
+    "ticker": "AMGN",
+    "sector": "Healthcare",
+    "sub_sector": "Drug Manufacturers - General"
+  },
+  {
+    "ticker": "AEE",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "ADSK",
+    "sector": "Technology",
+    "sub_sector": "Software - Application"
+  },
+  {
+    "ticker": "K",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Food Confectioners"
+  },
+  {
+    "ticker": "ORCL",
+    "sector": "Technology",
+    "sub_sector": "Software - Infrastructure"
+  },
+  {
+    "ticker": "GL",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Life"
+  },
+  {
+    "ticker": "ECL",
+    "sector": "Basic Materials",
+    "sub_sector": "Chemicals - Specialty"
+  },
+  {
+    "ticker": "NKE",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Apparel - Footwear & Accessories"
+  },
+  {
+    "ticker": "C",
+    "sector": "Financial Services",
+    "sub_sector": "Banks - Diversified"
+  },
+  {
+    "ticker": "PNC",
+    "sector": "Financial Services",
+    "sub_sector": "Banks - Regional"
+  },
+  {
+    "ticker": "HD",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Home Improvement"
+  },
+  {
+    "ticker": "AVY",
+    "sector": "Industrials",
+    "sub_sector": "Business Equipment & Supplies"
+  },
+  {
+    "ticker": "MMC",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Brokers"
+  },
+  {
+    "ticker": "SYY",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Food Distribution"
+  },
+  {
+    "ticker": "MDT",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Devices"
+  },
+  {
+    "ticker": "ITW",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Machinery"
+  },
+  {
+    "ticker": "PH",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Machinery"
+  },
+  {
+    "ticker": "DOV",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Machinery"
+  },
+  {
+    "ticker": "TJX",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Apparel - Retail"
+  },
+  {
+    "ticker": "CNP",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "RVTY",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Diagnostics & Research"
+  },
+  {
+    "ticker": "APD",
+    "sector": "Basic Materials",
+    "sub_sector": "Chemicals - Specialty"
+  },
+  {
+    "ticker": "NUE",
+    "sector": "Basic Materials",
+    "sub_sector": "Steel"
+  },
+  {
+    "ticker": "BALL",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Packaging & Containers"
+  },
+  {
+    "ticker": "HAS",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Leisure"
+  },
+  {
+    "ticker": "HES",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Exploration & Production"
+  },
+  {
+    "ticker": "PHM",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Residential Construction"
+  },
+  {
+    "ticker": "LOW",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Home Improvement"
+  },
+  {
+    "ticker": "T",
+    "sector": "Communication Services",
+    "sub_sector": "Telecommunications Services"
+  },
+  {
+    "ticker": "VZ",
+    "sector": "Communication Services",
+    "sub_sector": "Telecommunications Services"
+  },
+  {
+    "ticker": "CAG",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Packaged Foods"
+  },
+  {
+    "ticker": "AAPL",
+    "sector": "Technology",
+    "sub_sector": "Consumer Electronics"
+  },
+  {
+    "ticker": "BF-B",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Beverages - Wineries & Distilleries"
+  },
+  {
+    "ticker": "SNA",
+    "sector": "Industrials",
+    "sub_sector": "Manufacturing - Tools & Accessories"
+  },
+  {
+    "ticker": "SWK",
+    "sector": "Industrials",
+    "sub_sector": "Manufacturing - Tools & Accessories"
+  },
+  {
+    "ticker": "WMT",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Discount Stores"
+  },
+  {
+    "ticker": "GWW",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Distribution"
+  },
+  {
+    "ticker": "MAS",
+    "sector": "Industrials",
+    "sub_sector": "Construction"
+  },
+  {
+    "ticker": "ADP",
+    "sector": "Industrials",
+    "sub_sector": "Staffing & Employment Services"
+  },
+  {
+    "ticker": "FDX",
+    "sector": "Industrials",
+    "sub_sector": "Integrated Freight & Logistics"
+  },
+  {
+    "ticker": "PCAR",
+    "sector": "Industrials",
+    "sub_sector": "Agricultural - Machinery"
+  },
+  {
+    "ticker": "AIG",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Diversified"
+  },
+  {
+    "ticker": "WBA",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Pharmaceuticals"
+  },
+  {
+    "ticker": "WY",
+    "sector": "Real Estate",
+    "sub_sector": "REIT - Specialty"
+  },
+  {
+    "ticker": "TXT",
+    "sector": "Industrials",
+    "sub_sector": "Aerospace & Defense"
+  },
+  {
+    "ticker": "INTC",
+    "sector": "Technology",
+    "sub_sector": "Semiconductors"
+  },
+  {
+    "ticker": "TGT",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Discount Stores"
+  },
+  {
+    "ticker": "AXP",
+    "sector": "Financial Services",
+    "sub_sector": "Financial - Credit Services"
+  },
+  {
+    "ticker": "BAC",
+    "sector": "Financial Services",
+    "sub_sector": "Banks - Diversified"
+  },
+  {
+    "ticker": "CI",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Healthcare Plans"
+  },
+  {
+    "ticker": "DIS",
+    "sector": "Communication Services",
+    "sub_sector": "Entertainment"
+  },
+  {
+    "ticker": "DUK",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "NEE",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "TAP",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Beverages - Alcoholic"
+  },
+  {
+    "ticker": "WFC",
+    "sector": "Financial Services",
+    "sub_sector": "Banks - Diversified"
+  },
+  {
+    "ticker": "IFF",
+    "sector": "Basic Materials",
+    "sub_sector": "Chemicals - Specialty"
+  },
+  {
+    "ticker": "JPM",
+    "sector": "Financial Services",
+    "sub_sector": "Banks - Diversified"
+  },
+  {
+    "ticker": "WMB",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Midstream"
+  },
+  {
+    "ticker": "HPQ",
+    "sector": "Technology",
+    "sub_sector": "Computer Hardware"
+  },
+  {
+    "ticker": "GPC",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Specialty Retail"
+  },
+  {
+    "ticker": "JNJ",
+    "sector": "Healthcare",
+    "sub_sector": "Drug Manufacturers - General"
+  },
+  {
+    "ticker": "BAX",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Instruments & Supplies"
+  },
+  {
+    "ticker": "BDX",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Instruments & Supplies"
+  },
+  {
+    "ticker": "LLY",
+    "sector": "Healthcare",
+    "sub_sector": "Drug Manufacturers - General"
+  },
+  {
+    "ticker": "MCD",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Restaurants"
+  },
+  {
+    "ticker": "NEM",
+    "sector": "Basic Materials",
+    "sub_sector": "Gold"
+  },
+  {
+    "ticker": "CLX",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Household & Personal Products"
+  },
+  {
+    "ticker": "CMI",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Machinery"
+  },
+  {
+    "ticker": "EMR",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Machinery"
+  },
+  {
+    "ticker": "SHW",
+    "sector": "Basic Materials",
+    "sub_sector": "Chemicals - Specialty"
+  },
+  {
+    "ticker": "ABT",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Devices"
+  },
+  {
+    "ticker": "ADM",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Agricultural Farm Products"
+  },
+  {
+    "ticker": "AEP",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "BA",
+    "sector": "Industrials",
+    "sub_sector": "Aerospace & Defense"
+  },
+  {
+    "ticker": "BMY",
+    "sector": "Healthcare",
+    "sub_sector": "Drug Manufacturers - General"
+  },
+  {
+    "ticker": "CAT",
+    "sector": "Industrials",
+    "sub_sector": "Agricultural - Machinery"
+  },
+  {
+    "ticker": "CL",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Household & Personal Products"
+  },
+  {
+    "ticker": "CMS",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "COP",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Exploration & Production"
+  },
+  {
+    "ticker": "CPB",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Packaged Foods"
+  },
+  {
+    "ticker": "CSX",
+    "sector": "Industrials",
+    "sub_sector": "Railroads"
+  },
+  {
+    "ticker": "CVS",
+    "sector": "Healthcare",
+    "sub_sector": "Medical - Healthcare Plans"
+  },
+  {
+    "ticker": "CVX",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Integrated"
+  },
+  {
+    "ticker": "DE",
+    "sector": "Industrials",
+    "sub_sector": "Agricultural - Machinery"
+  },
+  {
+    "ticker": "DTE",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "ED",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "EIX",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "ETN",
+    "sector": "Industrials",
+    "sub_sector": "Industrial - Machinery"
+  },
+  {
+    "ticker": "ETR",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "EXC",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "F",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Auto - Manufacturers"
+  },
+  {
+    "ticker": "GD",
+    "sector": "Industrials",
+    "sub_sector": "Aerospace & Defense"
+  },
+  {
+    "ticker": "GE",
+    "sector": "Industrials",
+    "sub_sector": "Aerospace & Defense"
+  },
+  {
+    "ticker": "GIS",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Packaged Foods"
+  },
+  {
+    "ticker": "HAL",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Equipment & Services"
+  },
+  {
+    "ticker": "HIG",
+    "sector": "Financial Services",
+    "sub_sector": "Insurance - Diversified"
+  },
+  {
+    "ticker": "HON",
+    "sector": "Industrials",
+    "sub_sector": "Conglomerates"
+  },
+  {
+    "ticker": "HSY",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Food Confectioners"
+  },
+  {
+    "ticker": "IBM",
+    "sector": "Technology",
+    "sub_sector": "Information Technology Services"
+  },
+  {
+    "ticker": "IP",
+    "sector": "Consumer Cyclical",
+    "sub_sector": "Packaging & Containers"
+  },
+  {
+    "ticker": "KMB",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Household & Personal Products"
+  },
+  {
+    "ticker": "KO",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Beverages - Non-Alcoholic"
+  },
+  {
+    "ticker": "KR",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Grocery Stores"
+  },
+  {
+    "ticker": "LMT",
+    "sector": "Industrials",
+    "sub_sector": "Aerospace & Defense"
+  },
+  {
+    "ticker": "MMM",
+    "sector": "Industrials",
+    "sub_sector": "Conglomerates"
+  },
+  {
+    "ticker": "MO",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Tobacco"
+  },
+  {
+    "ticker": "MRK",
+    "sector": "Healthcare",
+    "sub_sector": "Drug Manufacturers - General"
+  },
+  {
+    "ticker": "MSI",
+    "sector": "Technology",
+    "sub_sector": "Communication Equipment"
+  },
+  {
+    "ticker": "NOC",
+    "sector": "Industrials",
+    "sub_sector": "Aerospace & Defense"
+  },
+  {
+    "ticker": "NSC",
+    "sector": "Industrials",
+    "sub_sector": "Railroads"
+  },
+  {
+    "ticker": "OXY",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Exploration & Production"
+  },
+  {
+    "ticker": "PEG",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "PEP",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Beverages - Non-Alcoholic"
+  },
+  {
+    "ticker": "PFE",
+    "sector": "Healthcare",
+    "sub_sector": "Drug Manufacturers - General"
+  },
+  {
+    "ticker": "PG",
+    "sector": "Consumer Defensive",
+    "sub_sector": "Household & Personal Products"
+  },
+  {
+    "ticker": "PPG",
+    "sector": "Basic Materials",
+    "sub_sector": "Chemicals - Specialty"
+  },
+  {
+    "ticker": "RTX",
+    "sector": "Industrials",
+    "sub_sector": "Aerospace & Defense"
+  },
+  {
+    "ticker": "SLB",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Equipment & Services"
+  },
+  {
+    "ticker": "SO",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "SPGI",
+    "sector": "Financial Services",
+    "sub_sector": "Financial - Data & Stock Exchanges"
+  },
+  {
+    "ticker": "UNP",
+    "sector": "Industrials",
+    "sub_sector": "Railroads"
+  },
+  {
+    "ticker": "XEL",
+    "sector": "Utilities",
+    "sub_sector": "Regulated Electric"
+  },
+  {
+    "ticker": "XOM",
+    "sector": "Energy",
+    "sub_sector": "Oil & Gas Integrated"
+  }
+]
