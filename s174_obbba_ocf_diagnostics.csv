@@ -1,0 +1,70 @@
+Metric,Value
+model_performance_r_squared,0.0945954049447627
+model_performance_adjusted_r_squared,0.24013004003442318
+model_performance_f_statistic,16.871921150325758
+model_performance_overall_model_pvalue,8.720837492581133e-50
+model_performance_total_observations,5226
+model_performance_total_companies,491
+model_performance_significant_features,9
+vif_analysis_max_vif,2.1306258392955146
+vif_analysis_mean_vif,1.167074931250687
+vif_analysis_high_vif_count,0
+vif_analysis_moderate_vif_count,0
+vif_analysis_high_vif_features,
+vif_analysis_moderate_vif_features,
+cross_validation_cv_rmse_mean,0.020857770280742205
+cross_validation_cv_rmse_std,0.001187767360283132
+cross_validation_cv_r2_mean,0.08714339178577754
+cross_validation_cv_r2_std,0.008483060026904722
+residual_analysis_mean_residual,1.5567765641892741e-16
+residual_analysis_std_residual,0.14386021527641538
+residual_analysis_skewness,0.6096674458299638
+residual_analysis_kurtosis,3.157118365159536
+"feature_importance_C(sector_baseline, Treatment(reference=""Basic Materials""))[T.Communication Services]_coefficient",-0.010702399201601402
+"feature_importance_C(sector_baseline, Treatment(reference=""Basic Materials""))[T.Communication Services]_vif",inf
+"feature_importance_C(sector_baseline, Treatment(reference=""Basic Materials""))[T.Consumer Cyclical]_coefficient",-0.019294557826750967
+"feature_importance_C(sector_baseline, Treatment(reference=""Basic Materials""))[T.Consumer Cyclical]_vif",inf
+"feature_importance_C(sector_baseline, Treatment(reference=""Basic Materials""))[T.Consumer Defensive]_coefficient",-0.021250000343361674
+"feature_importance_C(sector_baseline, Treatment(reference=""Basic Materials""))[T.Consumer Defensive]_vif",inf
+"feature_importance_C(sector_baseline, Treatment(reference=""Basic Materials""))[T.Energy]_coefficient",0.09630074760798904
+"feature_importance_C(sector_baseline, Treatment(reference=""Basic Materials""))[T.Energy]_vif",inf
+"feature_importance_C(sector_baseline, Treatment(reference=""Basic Materials""))[T.Financial Services]_coefficient",0.1113634280316656
+"feature_importance_C(sector_baseline, Treatment(reference=""Basic Materials""))[T.Financial Services]_vif",inf
+"feature_importance_C(sector_baseline, Treatment(reference=""Basic Materials""))[T.Healthcare]_coefficient",-0.0016091169709937442
+"feature_importance_C(sector_baseline, Treatment(reference=""Basic Materials""))[T.Healthcare]_vif",inf
+"feature_importance_C(sector_baseline, Treatment(reference=""Basic Materials""))[T.Industrials]_coefficient",-0.009697094227850601
+"feature_importance_C(sector_baseline, Treatment(reference=""Basic Materials""))[T.Industrials]_vif",inf
+"feature_importance_C(sector_baseline, Treatment(reference=""Basic Materials""))[T.Real Estate]_coefficient",0.23372308027396746
+"feature_importance_C(sector_baseline, Treatment(reference=""Basic Materials""))[T.Real Estate]_vif",inf
+"feature_importance_C(sector_baseline, Treatment(reference=""Basic Materials""))[T.Technology]_coefficient",0.050206204887183664
+"feature_importance_C(sector_baseline, Treatment(reference=""Basic Materials""))[T.Technology]_vif",inf
+"feature_importance_C(sector_baseline, Treatment(reference=""Basic Materials""))[T.Utilities]_coefficient",0.06795133600823475
+"feature_importance_C(sector_baseline, Treatment(reference=""Basic Materials""))[T.Utilities]_vif",inf
+feature_importance_cap_intensity_coefficient,0.000478683389431481
+feature_importance_cap_intensity_vif,1.0027262694650672
+feature_importance_rnd_deferral_ratio_coefficient,-0.0001358018752816983
+feature_importance_rnd_deferral_ratio_vif,1.0124021719915202
+feature_importance_leverage_coefficient,-0.02678919836413507
+feature_importance_leverage_vif,1.0592171311088925
+feature_importance_revenue_growth_coefficient,0.06352803150354458
+feature_importance_revenue_growth_vif,1.0490559655505869
+feature_importance_current_inventory_ratio_coefficient,-0.023459395723163065
+feature_importance_current_inventory_ratio_vif,1.0300485921590756
+feature_importance_profitability_coefficient,0.04482981696925425
+feature_importance_profitability_vif,1.5567412103695157
+feature_importance_ppe_total_assets_coefficient,0.15838812475625205
+feature_importance_ppe_total_assets_vif,1.0101307653557585
+feature_importance_acquisitions_intensity_coefficient,-0.09070830687273895
+feature_importance_acquisitions_intensity_vif,1.1783769770627441
+feature_importance_goodwill_change_intensity_coefficient,6.577261446839513e-05
+feature_importance_goodwill_change_intensity_vif,1.0078333134429542
+feature_importance_intangible_assets_change_intensity_coefficient,-0.03083855889419399
+feature_importance_intangible_assets_change_intensity_vif,1.1457187099033148
+feature_importance_total_dna_coefficient,0.6110579077967775
+feature_importance_total_dna_vif,1.0531901786112168
+feature_importance_earnings_quality_coefficient,0.0005430944232900723
+feature_importance_earnings_quality_vif,1.0035016045672502
+feature_importance_quarter_number_coefficient,-0.01576846886343733
+feature_importance_quarter_number_vif,1.004987510760162
+feature_importance_year_coefficient,-0.022213342447975456
+feature_importance_year_vif,inf
