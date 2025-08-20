@@ -11,19 +11,19 @@ These scripts analyze earnings risks from over-capitalization of R&D under recen
 
 ## Scripts
 
-### s174_obbba_ocf.py (formerly v1)
+### s174_obbba_ocf.py
 - **Purpose**: Tests R&D deferral ratio impact on next period OCF margin
 - **Independent Variable**: `rnd_deferral_ratio` (Capex / (Capex + (Operating Expenses - R&D Expenses)))
 - **Dependent Variable**: `ocf_margin_next` (Next Period Operating Cash Flow Margin)
 - **Use Case**: Analysis under OBBBA regime where full expensing is restored
 
-### s174_tcja_ocf.py (formerly v0)
+### s174_tcja_ocf.py
 - **Purpose**: Tests R&D to book-to-tax difference impact on next period OCF margin
 - **Independent Variable**: `rnd_to_btd` (R&D expenses / Book-to-Tax Difference)
 - **Dependent Variable**: `ocf_margin_next` (Next Period Operating Cash Flow Margin)
 - **Use Case**: Analysis under TCJA regime where capitalization was required
 
-### s174_tcja_earnings.py (formerly v0b)
+### s174_tcja_earnings.py
 - **Purpose**: Tests R&D to book-to-tax difference impact on earnings surprise ratio
 - **Independent Variable**: `rnd_to_btd` (R&D expenses / Book-to-Tax Difference)
 - **Dependent Variable**: `earnings_surprise_ratio` (Actual EPS / Estimated EPS)
